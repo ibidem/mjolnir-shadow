@@ -1,0 +1,6 @@
+{
+	"name": "mjolnir-shadow",
+	"version": "1.0.0",
+	"main": ["./jshadow.js" ],
+	"dependencies": { }
+}
