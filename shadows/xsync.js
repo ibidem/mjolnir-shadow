@@ -2,6 +2,8 @@
  * Shadow for managing modal to button cross-reference; among other things.
  *
  * @version 1.1
+ * @author Ibidem Team
+ * @copyright 2012, Ibidem Team
  * @license https://github.com/ibidem/ibidem/blob/master/LICENSE.md (BSD-2)
  */
 ;(function ($) {

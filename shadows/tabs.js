@@ -2,6 +2,8 @@
  * Tabs plugin for managing simple tabs.
  *
  * @version 1.0
+ * @author Ibidem Team
+ * @copyright 2012, Ibidem Team
  * @license https://github.com/ibidem/ibidem/blob/master/LICENSE.md (BSD-2)
  */
 ;(function ($) {

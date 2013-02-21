@@ -4,6 +4,8 @@
  * Produce calculated fields in form (or form-like structure).
  *
  * @version 1.2
+ * @author Ibidem Team
+ * @copyright 2012, Ibidem Team
  * @license https://github.com/ibidem/ibidem/blob/master/LICENSE.md (BSD-2)
  */
 ;(function ($, undefined) {

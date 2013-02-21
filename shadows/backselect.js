@@ -2,6 +2,8 @@
  * Shows an extra option when select field is blank.
  *
  * @version 1.1
+ * @author Ibidem Team
+ * @copyright 2012, Ibidem Team
  * @license https://github.com/ibidem/ibidem/blob/master/LICENSE.md (BSD-2)
  */
 ;(function ($) {

@@ -4,6 +4,8 @@
  * Load pages with out going though a page load.
  *
  * @version 1.2
+ * @author Ibidem Team
+ * @copyright 2012, Ibidem Team
  * @license https://github.com/ibidem/ibidem/blob/master/LICENSE.md (BSD-2)
  */
 ;(function ($, undefined) {

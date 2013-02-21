@@ -2,6 +2,10 @@
  * Similar to xload only attaches itself to forms instead.
  * 
  * Assumes very plain forms are used.
+ * 
+ * @author Ibidem Team
+ * @copyright 2012, Ibidem Team
+ * @license https://github.com/ibidem/ibidem/blob/master/LICENSE.md (BSD-2)
  */
 ;(function ($) {
 
