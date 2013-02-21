@@ -3,8 +3,6 @@
 Javascript Shadow (jshadow)
 ===========================
 
-Helper for creating javascript utility plugins.
-
 The idea of jshadow is to facilitate easy modularization of basic GUI 
 functionality that requires javascript. Simple examples include tabs, various 
 "show this, hide that, when X condition happens", or "turn this into that" etc.
